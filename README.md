@@ -29,4 +29,7 @@ To view the project, visit the demo link provided. Due to the current state of d
 - Implementing a more comprehensive design using advanced CSS techniques.
 - Ensuring full responsiveness across various devices.
 
+### Mezzdough Restaurant UI - Homepage
+![Mezzdough Restaurant UI](https://github.com/iamnotbibia/Mezzdough-Restaurant-Website/blob/main/assets/home_cafe.png?raw=true)
+
 ---
