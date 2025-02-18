@@ -1,8 +1,3 @@
-Certainly! Here is a README.md example for your web mini-project:
-markdown# Web Mini Project
-
-A small project for the 'Web Design' course using HTML, CSS, Bootstrap framework, and JavaScript.
-
 ## Project Overview
 
 This project is a prototype website for a restaurant. Please note that it is not yet complete. The aim of this project was to practice and implement skills learned during the 'Web Design' course.
